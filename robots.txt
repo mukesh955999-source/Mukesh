@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mishra-central-air.akash-sharma-p533777.chatgpt.site/sitemap.xml
